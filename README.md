@@ -86,7 +86,7 @@ DSA-Java/
 
 ## 🔗 Author
 **Akash**  
-(B.E / B.Tech – Computer Science)
+(B.E / B.Tech – Electronics And Communication Engineering)
 
 ---
 
